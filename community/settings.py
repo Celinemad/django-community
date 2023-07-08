@@ -95,7 +95,7 @@ DATABASES = {
         'NAME': 'DRF_test',
         'USER': 'root',
         'PASSWORD': '1dlrkdms!',
-        'HOST': 'svc.sel3.cloudtype.app',
+        'HOST': 'svc.sel4.cloudtype.app',
         'PORT': '30278'
     }
 }
